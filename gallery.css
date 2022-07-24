@@ -1,6 +1,6 @@
 .gallery {
-  --s: 150px; /* control the size */
-  --g: 10px; /* control the gap */
+  --s: 300px; /* control the size */
+  --g: 20px; /* control the gap */
   --f: 1.5; /* control the scale factor */
 
   display: grid;
@@ -32,5 +32,5 @@ body {
   min-height: 100vh;
   display: grid;
   place-content: center;
-  background: #60c4ff;
+  background: #ce6a3b;
 }
